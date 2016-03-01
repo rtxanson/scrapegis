@@ -1,0 +1,25 @@
+Scrapegis. Used for fetching property records from Hennepin County's GIS
+server.
+
+    $ scrapegis fetch pid 3302924110099
+    3302924110099,2320,"COLFAX AVE S",55405,"M ... 
+
+    $ scrapegis fetch names %BOB%SM%
+    ...
+
+Usage: 
+  scrapegis fetch city [options]
+  scrapegis fetch zip <query_arg> [options]
+  scrapegis fetch taxpayer <query_arg> [options]
+  scrapegis fetch owner <query_arg> [options]
+  scrapegis fetch names <query_arg> [options]
+  scrapegis fetch pid <query_arg> [options]
+  scrapegis query <query_string> [options]
+
+Options:
+  -m, --mock         Use mocked data
+  -c, --csv          Output to CSV
+  -j, --json         Output to simpler JSON
+
+  --out=<outfile>    Output to file (stdout if not present)
+

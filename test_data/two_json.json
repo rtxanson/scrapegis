@@ -1,0 +1,643 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "rings": [
+          [
+            [
+              478815.2751000002,
+              4980618.3828
+            ],
+            [
+              478839.45700000133,
+              4980658.818300001
+            ],
+            [
+              478879.80770000163,
+              4980634.0911
+            ],
+            [
+              478855.298200001,
+              4980593.196800001
+            ],
+            [
+              478844.9003999997,
+              4980599.394200003
+            ],
+            [
+              478815.2751000002,
+              4980618.3828
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+        "Shape.len": 189.40890938954894,
+        "MKT_VAL_TOT": 6959000,
+        "HMSTD_CD1_NAME": "NON-HOMESTEAD",
+        "HMSTD_CD1": "N",
+        "CONTIG_IND1": " ",
+        "CO_OP_IND": " ",
+        "FORFEIT_LAND_IND": " ",
+        "PROPERTY_STATUS_CD": "0",
+        "TIF_PROJECT_NO": "    ",
+        "WATERSHED_NO": "6",
+        "SEWER_DIST_NO": "  ",
+        "SCHOOL_DIST_NO": "001",
+        "MAILING_MUNIC_NM": "MINNEAPOLIS     ",
+        "MAILING_MUNIC_CD": "01",
+        "TAXPAYER_NM_3": "                            ",
+        "TAXPAYER_NM_2": "MINNEAPOLIS MN   55402      ",
+        "TAXPAYER_NM_1": "150 5TH ST S  STE 1425      ",
+        "FRAC_HOUSE_NO": "   ",
+        "HOUSE_NO": 409,
+        "TORRENS_TYP": "T",
+        "STATE_CD": 1670,
+        "FEATURECODE": 501,
+        "PID_TEXT": "(28)",
+        "PID": "2202924440028",
+        "OBJECTID": 517363,
+        "STREET_NM": "MARQUETTE AVE       ",
+        "CONDO_NO": "     ",
+        "MUNIC_CD": "01",
+        "MUNIC_NM": "MINNEAPOLIS     ",
+        "ZIP_CD": "55401",
+        "MULTI_ADDR_IND": " ",
+        "OWNER_NM": "BAKER INVESTMENTS PTN I, LLC       ",
+        "TAXPAYER_NM": "BAKER INVESTMENTS PTN I, LLC",
+        "TAX_TOT": 326778.58,
+        "NET_TAX_CAPACITY": 138430,
+        "PROPERTY_TYPE_CD1_NAME": "COMMERCIAL-PREFERRED",
+        "PROPERTY_TYPE_CD1": "C ",
+        "EST_LAND_MKT_VAL1": 2195500,
+        "EST_BLDG_MKT_VAL1": 4763500,
+        "PROPERTY_TYPE_CD2": "  ",
+        "EST_LAND_MKT_VAL2": 0,
+        "EST_BLDG_MKT_VAL2": 0,
+        "PROPERTY_TYPE_CD3": "  ",
+        "EST_LAND_MKT_VAL3": 0,
+        "EST_BLDG_MKT_VAL3": 0,
+        "PROPERTY_TYPE_CD4": "  ",
+        "EST_LAND_MKT_VAL4": 0,
+        "EST_BLDG_MKT_VAL4": 0,
+        "ABBREV_ADDN_NM": "AUDITOR'S SUBD. NO. 156              ",
+        "ADDITION_NO": "08760",
+        "LOT": "   ",
+        "BLOCK": "   ",
+        "METES_BNDS1": "LOTS 65 AND 66 INCL THAT PART OF     ",
+        "METES_BNDS2": "VAC ALLEY LYING NELY OF A LINE PAR   ",
+        "METES_BNDS3": "WITH AND 17 FT NELY OF THE SWLY LINE ",
+        "METES_BNDS4": "OF LOT 66 SUBJECT TO ALLEY           ",
+        "MORE_METES_BNDS_IND": " ",
+        "ABSTR_TORRENS_CD": "B",
+        "BUILD_YR": "1950",
+        "SALE_DATE": "      ",
+        "SALE_PRICE": 0,
+        "SALE_CODE": " ",
+        "SALE_CODE_NAME": "",
+        "PARCEL_AREA": 24225.86810596,
+        "Shape.area": 2248.702081850044
+      }
+    },
+    {
+      "geometry": {
+        "rings": [
+          [
+            [
+              478496.49069999997,
+              4980830.0372
+            ],
+            [
+              478531.5844999999,
+              4980864.6866000015
+            ],
+            [
+              478542.8419000013,
+              4980853.426000003
+            ],
+            [
+              478507.6964999996,
+              4980818.689100001
+            ],
+            [
+              478496.49069999997,
+              4980830.0372
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+        "Shape.len": 130.60294698277264,
+        "MKT_VAL_TOT": 0,
+        "HMSTD_CD1_NAME": "NON-HOMESTEAD",
+        "HMSTD_CD1": "N",
+        "CONTIG_IND1": " ",
+        "CO_OP_IND": " ",
+        "FORFEIT_LAND_IND": " ",
+        "PROPERTY_STATUS_CD": "0",
+        "TIF_PROJECT_NO": "    ",
+        "WATERSHED_NO": "6",
+        "SEWER_DIST_NO": "  ",
+        "SCHOOL_DIST_NO": "001",
+        "MAILING_MUNIC_NM": "MINNEAPOLIS     ",
+        "MAILING_MUNIC_CD": "01",
+        "TAXPAYER_NM_3": "MINNEAPOLIS MN   55401      ",
+        "TAXPAYER_NM_2": "309 2ND AVE S   # 201       ",
+        "TAXPAYER_NM_1": "PUBLIC WORKS RIGHT OF WAY   ",
+        "FRAC_HOUSE_NO": "   ",
+        "HOUSE_NO": 19,
+        "TORRENS_TYP": "A",
+        "STATE_CD": 1670,
+        "FEATURECODE": 501,
+        "PID_TEXT": "(86)",
+        "PID": "2202924410086",
+        "OBJECTID": 517370,
+        "STREET_NM": "4TH ST N            ",
+        "CONDO_NO": "     ",
+        "MUNIC_CD": "01",
+        "MUNIC_NM": "MINNEAPOLIS     ",
+        "ZIP_CD": "55401",
+        "MULTI_ADDR_IND": " ",
+        "OWNER_NM": "CITY OF MPLS                       ",
+        "TAXPAYER_NM": "CITY OF MINNEAPOLIS         ",
+        "TAX_TOT": 2283.89,
+        "NET_TAX_CAPACITY": 0,
+        "PROPERTY_TYPE_CD1_NAME": "COMMERCIAL-PREFERRED",
+        "PROPERTY_TYPE_CD1": "C ",
+        "EST_LAND_MKT_VAL1": 0,
+        "EST_BLDG_MKT_VAL1": 0,
+        "PROPERTY_TYPE_CD2": "  ",
+        "EST_LAND_MKT_VAL2": 0,
+        "EST_BLDG_MKT_VAL2": 0,
+        "PROPERTY_TYPE_CD3": "  ",
+        "EST_LAND_MKT_VAL3": 0,
+        "EST_BLDG_MKT_VAL3": 0,
+        "PROPERTY_TYPE_CD4": "  ",
+        "EST_LAND_MKT_VAL4": 0,
+        "EST_BLDG_MKT_VAL4": 0,
+        "ABBREV_ADDN_NM": "TOWN OF MINNEAPOLIS                  ",
+        "ADDITION_NO": "10360",
+        "LOT": "010",
+        "BLOCK": "082",
+        "METES_BNDS1": "                                     ",
+        "METES_BNDS2": "                                     ",
+        "METES_BNDS3": "                                     ",
+        "METES_BNDS4": "                                     ",
+        "MORE_METES_BNDS_IND": " ",
+        "ABSTR_TORRENS_CD": "A",
+        "BUILD_YR": "1902",
+        "SALE_DATE": "      ",
+        "SALE_PRICE": 0,
+        "SALE_CODE": " ",
+        "SALE_CODE_NAME": "",
+        "PARCEL_AREA": 8474.90976524,
+        "Shape.area": 786.6638338037476
+      }
+    }
+  ],
+  "fields": [
+    {
+      "alias": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "name": "OBJECTID"
+    },
+    {
+      "length": 13,
+      "alias": "PID",
+      "type": "esriFieldTypeString",
+      "name": "PID"
+    },
+    {
+      "length": 12,
+      "alias": "PID_TEXT",
+      "type": "esriFieldTypeString",
+      "name": "PID_TEXT"
+    },
+    {
+      "alias": "FEATURECODE",
+      "type": "esriFieldTypeInteger",
+      "name": "FEATURECODE"
+    },
+    {
+      "alias": "STATE_CD",
+      "type": "esriFieldTypeInteger",
+      "name": "STATE_CD"
+    },
+    {
+      "length": 1,
+      "alias": "TORRENS_TYP",
+      "type": "esriFieldTypeString",
+      "name": "TORRENS_TYP"
+    },
+    {
+      "alias": "HOUSE_NO",
+      "type": "esriFieldTypeInteger",
+      "name": "HOUSE_NO"
+    },
+    {
+      "length": 3,
+      "alias": "FRAC_HOUSE_NO",
+      "type": "esriFieldTypeString",
+      "name": "FRAC_HOUSE_NO"
+    },
+    {
+      "length": 20,
+      "alias": "STREET_NM",
+      "type": "esriFieldTypeString",
+      "name": "STREET_NM"
+    },
+    {
+      "length": 5,
+      "alias": "CONDO_NO",
+      "type": "esriFieldTypeString",
+      "name": "CONDO_NO"
+    },
+    {
+      "length": 2,
+      "alias": "MUNIC_CD",
+      "type": "esriFieldTypeString",
+      "name": "MUNIC_CD"
+    },
+    {
+      "length": 16,
+      "alias": "MUNIC_NM",
+      "type": "esriFieldTypeString",
+      "name": "MUNIC_NM"
+    },
+    {
+      "length": 5,
+      "alias": "ZIP_CD",
+      "type": "esriFieldTypeString",
+      "name": "ZIP_CD"
+    },
+    {
+      "length": 1,
+      "alias": "MULTI_ADDR_IND",
+      "type": "esriFieldTypeString",
+      "name": "MULTI_ADDR_IND"
+    },
+    {
+      "length": 35,
+      "alias": "OWNER_NM",
+      "type": "esriFieldTypeString",
+      "name": "OWNER_NM"
+    },
+    {
+      "length": 28,
+      "alias": "TAXPAYER_NM",
+      "type": "esriFieldTypeString",
+      "name": "TAXPAYER_NM"
+    },
+    {
+      "length": 28,
+      "alias": "TAXPAYER_NM_1",
+      "type": "esriFieldTypeString",
+      "name": "TAXPAYER_NM_1"
+    },
+    {
+      "length": 28,
+      "alias": "TAXPAYER_NM_2",
+      "type": "esriFieldTypeString",
+      "name": "TAXPAYER_NM_2"
+    },
+    {
+      "length": 28,
+      "alias": "TAXPAYER_NM_3",
+      "type": "esriFieldTypeString",
+      "name": "TAXPAYER_NM_3"
+    },
+    {
+      "length": 2,
+      "alias": "MAILING_MUNIC_CD",
+      "type": "esriFieldTypeString",
+      "name": "MAILING_MUNIC_CD"
+    },
+    {
+      "length": 16,
+      "alias": "MAILING_MUNIC_NM",
+      "type": "esriFieldTypeString",
+      "name": "MAILING_MUNIC_NM"
+    },
+    {
+      "length": 3,
+      "alias": "SCHOOL_DIST_NO",
+      "type": "esriFieldTypeString",
+      "name": "SCHOOL_DIST_NO"
+    },
+    {
+      "length": 2,
+      "alias": "SEWER_DIST_NO",
+      "type": "esriFieldTypeString",
+      "name": "SEWER_DIST_NO"
+    },
+    {
+      "length": 1,
+      "alias": "WATERSHED_NO",
+      "type": "esriFieldTypeString",
+      "name": "WATERSHED_NO"
+    },
+    {
+      "length": 4,
+      "alias": "TIF_PROJECT_NO",
+      "type": "esriFieldTypeString",
+      "name": "TIF_PROJECT_NO"
+    },
+    {
+      "length": 1,
+      "alias": "PROPERTY_STATUS_CD",
+      "type": "esriFieldTypeString",
+      "name": "PROPERTY_STATUS_CD"
+    },
+    {
+      "length": 1,
+      "alias": "FORFEIT_LAND_IND",
+      "type": "esriFieldTypeString",
+      "name": "FORFEIT_LAND_IND"
+    },
+    {
+      "length": 1,
+      "alias": "CO_OP_IND",
+      "type": "esriFieldTypeString",
+      "name": "CO_OP_IND"
+    },
+    {
+      "length": 1,
+      "alias": "CONTIG_IND1",
+      "type": "esriFieldTypeString",
+      "name": "CONTIG_IND1"
+    },
+    {
+      "length": 1,
+      "alias": "HMSTD_CD1",
+      "type": "esriFieldTypeString",
+      "name": "HMSTD_CD1"
+    },
+    {
+      "length": 13,
+      "alias": "HMSTD_CD1_NAME",
+      "type": "esriFieldTypeString",
+      "name": "HMSTD_CD1_NAME"
+    },
+    {
+      "alias": "MKT_VAL_TOT",
+      "type": "esriFieldTypeInteger",
+      "name": "MKT_VAL_TOT"
+    },
+    {
+      "alias": "TAX_TOT",
+      "type": "esriFieldTypeDouble",
+      "name": "TAX_TOT"
+    },
+    {
+      "alias": "NET_TAX_CAPACITY",
+      "type": "esriFieldTypeInteger",
+      "name": "NET_TAX_CAPACITY"
+    },
+    {
+      "length": 29,
+      "alias": "PROPERTY_TYPE_CD1_NAME",
+      "type": "esriFieldTypeString",
+      "name": "PROPERTY_TYPE_CD1_NAME"
+    },
+    {
+      "length": 2,
+      "alias": "PROPERTY_TYPE_CD1",
+      "type": "esriFieldTypeString",
+      "name": "PROPERTY_TYPE_CD1"
+    },
+    {
+      "alias": "EST_LAND_MKT_VAL1",
+      "type": "esriFieldTypeInteger",
+      "name": "EST_LAND_MKT_VAL1"
+    },
+    {
+      "alias": "EST_BLDG_MKT_VAL1",
+      "type": "esriFieldTypeInteger",
+      "name": "EST_BLDG_MKT_VAL1"
+    },
+    {
+      "length": 2,
+      "alias": "PROPERTY_TYPE_CD2",
+      "type": "esriFieldTypeString",
+      "name": "PROPERTY_TYPE_CD2"
+    },
+    {
+      "alias": "EST_LAND_MKT_VAL2",
+      "type": "esriFieldTypeInteger",
+      "name": "EST_LAND_MKT_VAL2"
+    },
+    {
+      "alias": "EST_BLDG_MKT_VAL2",
+      "type": "esriFieldTypeInteger",
+      "name": "EST_BLDG_MKT_VAL2"
+    },
+    {
+      "length": 2,
+      "alias": "PROPERTY_TYPE_CD3",
+      "type": "esriFieldTypeString",
+      "name": "PROPERTY_TYPE_CD3"
+    },
+    {
+      "alias": "EST_LAND_MKT_VAL3",
+      "type": "esriFieldTypeInteger",
+      "name": "EST_LAND_MKT_VAL3"
+    },
+    {
+      "alias": "EST_BLDG_MKT_VAL3",
+      "type": "esriFieldTypeInteger",
+      "name": "EST_BLDG_MKT_VAL3"
+    },
+    {
+      "length": 2,
+      "alias": "PROPERTY_TYPE_CD4",
+      "type": "esriFieldTypeString",
+      "name": "PROPERTY_TYPE_CD4"
+    },
+    {
+      "alias": "EST_LAND_MKT_VAL4",
+      "type": "esriFieldTypeInteger",
+      "name": "EST_LAND_MKT_VAL4"
+    },
+    {
+      "alias": "EST_BLDG_MKT_VAL4",
+      "type": "esriFieldTypeInteger",
+      "name": "EST_BLDG_MKT_VAL4"
+    },
+    {
+      "length": 37,
+      "alias": "ABBREV_ADDN_NM",
+      "type": "esriFieldTypeString",
+      "name": "ABBREV_ADDN_NM"
+    },
+    {
+      "length": 5,
+      "alias": "ADDITION_NO",
+      "type": "esriFieldTypeString",
+      "name": "ADDITION_NO"
+    },
+    {
+      "length": 3,
+      "alias": "LOT",
+      "type": "esriFieldTypeString",
+      "name": "LOT"
+    },
+    {
+      "length": 3,
+      "alias": "BLOCK",
+      "type": "esriFieldTypeString",
+      "name": "BLOCK"
+    },
+    {
+      "length": 37,
+      "alias": "METES_BNDS1",
+      "type": "esriFieldTypeString",
+      "name": "METES_BNDS1"
+    },
+    {
+      "length": 37,
+      "alias": "METES_BNDS2",
+      "type": "esriFieldTypeString",
+      "name": "METES_BNDS2"
+    },
+    {
+      "length": 37,
+      "alias": "METES_BNDS3",
+      "type": "esriFieldTypeString",
+      "name": "METES_BNDS3"
+    },
+    {
+      "length": 37,
+      "alias": "METES_BNDS4",
+      "type": "esriFieldTypeString",
+      "name": "METES_BNDS4"
+    },
+    {
+      "length": 1,
+      "alias": "MORE_METES_BNDS_IND",
+      "type": "esriFieldTypeString",
+      "name": "MORE_METES_BNDS_IND"
+    },
+    {
+      "length": 1,
+      "alias": "ABSTR_TORRENS_CD",
+      "type": "esriFieldTypeString",
+      "name": "ABSTR_TORRENS_CD"
+    },
+    {
+      "length": 4,
+      "alias": "BUILD_YR",
+      "type": "esriFieldTypeString",
+      "name": "BUILD_YR"
+    },
+    {
+      "length": 6,
+      "alias": "SALE_DATE",
+      "type": "esriFieldTypeString",
+      "name": "SALE_DATE"
+    },
+    {
+      "alias": "SALE_PRICE",
+      "type": "esriFieldTypeInteger",
+      "name": "SALE_PRICE"
+    },
+    {
+      "length": 1,
+      "alias": "SALE_CODE",
+      "type": "esriFieldTypeString",
+      "name": "SALE_CODE"
+    },
+    {
+      "length": 50,
+      "alias": "SALE_CODE_NAME",
+      "type": "esriFieldTypeString",
+      "name": "SALE_CODE_NAME"
+    },
+    {
+      "alias": "PARCEL_AREA",
+      "type": "esriFieldTypeDouble",
+      "name": "PARCEL_AREA"
+    },
+    {
+      "alias": "Shape.area",
+      "type": "esriFieldTypeDouble",
+      "name": "Shape.area"
+    },
+    {
+      "alias": "Shape.len",
+      "type": "esriFieldTypeDouble",
+      "name": "Shape.len"
+    }
+  ],
+  "spatialReference": {
+    "wkid": 26915
+  },
+  "geometryType": "esriGeometryPolygon",
+  "fieldAliases": {
+    "Shape.len": "Shape.len",
+    "MKT_VAL_TOT": "MKT_VAL_TOT",
+    "HMSTD_CD1_NAME": "HMSTD_CD1_NAME",
+    "HMSTD_CD1": "HMSTD_CD1",
+    "CONTIG_IND1": "CONTIG_IND1",
+    "CO_OP_IND": "CO_OP_IND",
+    "FORFEIT_LAND_IND": "FORFEIT_LAND_IND",
+    "PROPERTY_STATUS_CD": "PROPERTY_STATUS_CD",
+    "TIF_PROJECT_NO": "TIF_PROJECT_NO",
+    "WATERSHED_NO": "WATERSHED_NO",
+    "SEWER_DIST_NO": "SEWER_DIST_NO",
+    "SCHOOL_DIST_NO": "SCHOOL_DIST_NO",
+    "MAILING_MUNIC_NM": "MAILING_MUNIC_NM",
+    "MAILING_MUNIC_CD": "MAILING_MUNIC_CD",
+    "TAXPAYER_NM_3": "TAXPAYER_NM_3",
+    "TAXPAYER_NM_2": "TAXPAYER_NM_2",
+    "TAXPAYER_NM_1": "TAXPAYER_NM_1",
+    "FRAC_HOUSE_NO": "FRAC_HOUSE_NO",
+    "HOUSE_NO": "HOUSE_NO",
+    "TORRENS_TYP": "TORRENS_TYP",
+    "STATE_CD": "STATE_CD",
+    "FEATURECODE": "FEATURECODE",
+    "PID_TEXT": "PID_TEXT",
+    "PID": "PID",
+    "OBJECTID": "OBJECTID",
+    "STREET_NM": "STREET_NM",
+    "CONDO_NO": "CONDO_NO",
+    "MUNIC_CD": "MUNIC_CD",
+    "MUNIC_NM": "MUNIC_NM",
+    "ZIP_CD": "ZIP_CD",
+    "MULTI_ADDR_IND": "MULTI_ADDR_IND",
+    "OWNER_NM": "OWNER_NM",
+    "TAXPAYER_NM": "TAXPAYER_NM",
+    "TAX_TOT": "TAX_TOT",
+    "NET_TAX_CAPACITY": "NET_TAX_CAPACITY",
+    "PROPERTY_TYPE_CD1_NAME": "PROPERTY_TYPE_CD1_NAME",
+    "PROPERTY_TYPE_CD1": "PROPERTY_TYPE_CD1",
+    "EST_LAND_MKT_VAL1": "EST_LAND_MKT_VAL1",
+    "EST_BLDG_MKT_VAL1": "EST_BLDG_MKT_VAL1",
+    "PROPERTY_TYPE_CD2": "PROPERTY_TYPE_CD2",
+    "EST_LAND_MKT_VAL2": "EST_LAND_MKT_VAL2",
+    "EST_BLDG_MKT_VAL2": "EST_BLDG_MKT_VAL2",
+    "PROPERTY_TYPE_CD3": "PROPERTY_TYPE_CD3",
+    "EST_LAND_MKT_VAL3": "EST_LAND_MKT_VAL3",
+    "EST_BLDG_MKT_VAL3": "EST_BLDG_MKT_VAL3",
+    "PROPERTY_TYPE_CD4": "PROPERTY_TYPE_CD4",
+    "EST_LAND_MKT_VAL4": "EST_LAND_MKT_VAL4",
+    "EST_BLDG_MKT_VAL4": "EST_BLDG_MKT_VAL4",
+    "ABBREV_ADDN_NM": "ABBREV_ADDN_NM",
+    "ADDITION_NO": "ADDITION_NO",
+    "LOT": "LOT",
+    "BLOCK": "BLOCK",
+    "METES_BNDS1": "METES_BNDS1",
+    "METES_BNDS2": "METES_BNDS2",
+    "METES_BNDS3": "METES_BNDS3",
+    "METES_BNDS4": "METES_BNDS4",
+    "MORE_METES_BNDS_IND": "MORE_METES_BNDS_IND",
+    "ABSTR_TORRENS_CD": "ABSTR_TORRENS_CD",
+    "BUILD_YR": "BUILD_YR",
+    "SALE_DATE": "SALE_DATE",
+    "SALE_PRICE": "SALE_PRICE",
+    "SALE_CODE": "SALE_CODE",
+    "SALE_CODE_NAME": "SALE_CODE_NAME",
+    "PARCEL_AREA": "PARCEL_AREA",
+    "Shape.area": "Shape.area"
+  },
+  "displayFieldName": "HMSTD_CD1_NAME"
+}
