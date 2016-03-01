@@ -178,7 +178,10 @@ instance ToRecord FeatureLookup where
       fieldname = displayFieldName feat
 
 feature_header_bs :: D8.ByteString
-feature_header_bs = D8.pack $ L.intercalate ("," :: String) feature_header_cols
+feature_header_bs = heddr
+  where
+    heddr = D8.pack $ (commad ++ "\n")
+    commad = L.intercalate ("," :: String) feature_header_cols
 
 feature_header_cols :: [String]
 feature_header_cols = [ "PID"
